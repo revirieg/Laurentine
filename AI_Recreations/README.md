@@ -9,7 +9,7 @@ A summary of the results with smaller versions of the images is included in this
 
 Part 1 
 
-<img src = Images/P1M.png width = 200>  <img src = Images/P1C.png width = 200> 
+<img src = Images/P1M.png width = 400>  <img src = Images/P1C.png width = 400> 
 
 Part 2 
 

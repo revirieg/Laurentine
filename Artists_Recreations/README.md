@@ -3,4 +3,4 @@ The images of different artists recreations of the Laurentine are store in the I
 
 A summary with smaller images is included in this file.
 
-<img src = /Images/Laurentum_arches_by_Jason_Carlin.jpg width = 200> 
+<img src = Images/Laurentum_arches_by_Jason_Carlin.jpg width = 200> 

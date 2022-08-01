@@ -8,9 +8,11 @@ The image files produced by the AI tool are in the images folder.
 A summary of the results with smaller versions of the images is included in this file.  
 
 Part 1 
+
 <img src = Images/P1M.png width = 200>  <img src = Images/P1C.png width = 200> 
 
 Part 2 
+
 <img src = Images/P2M.png width = 200>  <img src = Images/P2C.png width = 200> 
 
 Part 3 

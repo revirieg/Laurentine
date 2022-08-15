@@ -93,4 +93,4 @@ A summary with smaller images is included in this file.
 <img src = Images/2020_01_Russell_Taylor_Plinys-Villa-Plan-1.jpg  width = 250> 
 <img src = Images/2020_02_Russell_Taylor_Plinys-Villa-Elevation-1.jpg  width = 250> 
 <img src = Images/2020_03_Russell_Taylor_Plinys-Villa-Section1.jpg  width = 250> 
-<img src = Images/2020_04_Russell_Taylor_Plinys-Villa-Sea Elevation.jpg  width = 250> 
+<img src = Images/2020_04_Russell_Taylor_Plinys-Villa-Sea_Elevation.jpg  width = 250> 

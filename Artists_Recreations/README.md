@@ -37,11 +37,11 @@ A summary with smaller images is included in this file.
 <img src = Images/1852_02_Bouchet_Façades.jpg  width = 250> 
 <img src = Images/1852_02_Bouchet_Vue.jpg  width = 250> 
 <img src = Images/1852_04_Bouchet_Plan.jpg  width = 250> 
-<img src = Images/1855_Anonymous_Accademia_San_Luca__2290_From_Du_Prey.jpg'  width = 250> 
-<img src = Images/1864_1_J.G.S._Columbia_Student.jpg'  width = 250> 
-<img src = Images/1864_2_J.G.S._Columbia_Student.jpg'  width = 250> 
-<img src = Images/1864_2_Loring_Columbia_Student.jpg'  width = 250> 
-<img src = Images/1864_Loring_Columbia_Student.jpg'  width = 250> 
+<img src = Images/1855_Anonymous_Accademia_San_Luca_2290_From_Du_Prey.jpg'  width = 250> 
+<img src = Images/1864_1_JGS._Columbia_Student.jpg  width = 250> 
+<img src = Images/1864_2_JGS._Columbia_Student.jpg  width = 250> 
+<img src = Images/1864_2_Loring_Columbia_Student.jpg  width = 250> 
+<img src = Images/1864_Loring_Columbia_Student.jpg  width = 250> 
 <img src = Images/1889_2_Cowan_Laurentine_Key.jpg  width = 250> 
 <img src = Images/1889_Cowan_Laurentine.jpg  width = 250> 
 <img src = Images/1891_Winnefeld_Laurentine_0222.jpg  width = 250> 

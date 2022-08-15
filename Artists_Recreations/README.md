@@ -5,4 +5,4 @@ A summary with smaller images is included in this file.
 
 Jason Carlin:  
 
-<img src = Images/Laurentum_arches_by_Jason_Carlin.jpg width = 200> 
+<img src = Images/1615_Scamozzi_Villa Laurentina.jpg  width = 200> 

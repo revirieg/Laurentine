@@ -8,7 +8,7 @@ A summary with smaller images is included in this file.
 <img src = Images/1729_Hirt_Laurentine_and_Tuscan.png  width = 250> 
 <img src = Images/1760_Krubsacius_Friedrich_August,_Possible_design_of_the_country_house_of_the_younger_Pliny_called_Laurentian,_1760,_The_New_York_Botanical_Garden,_fair_use.jpg  width = 250> 
 <img src = Images/1770_1_Stevens_laurentine-stevens.jpg  width = 250> 
-<img src = Images/1770_2_Stevens_Pseudo_urban Villa.png  width = 250> 
+<img src = Images/1770_2_Stevens_Pseudo_urban_Villa.png  width = 250> 
 <img src = Images/1775_William_Newton.jpeg   width = 250> 
 <img src = Images/1779_1_Potoki_The_Villa_Laurentina_of_Pliny_the_Younge.jpg  width = 250> 
 <img src = Images/1779_2_Potoki_The_Villa_Laurentina_of_Pliny_the_Younge.jpg   width = 250> 

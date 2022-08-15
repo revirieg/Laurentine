@@ -8,8 +8,7 @@ A summary with smaller images is included in this file.
 
 1615	Vincenzo Scamozzi
 
-<p align=center>  <img src = Images/1615_Scamozzi_Villa_Laurentina.jpg  width = 250/> </p>
-
+<p align=center>  <img src = Images/1615_Scamozzi_Villa_Laurentina.jpg  width = 250>
 1699	Jean François Félibien des Avaux
 
 <img src = Images/1699_Felibien_des_Avaux_Laurentine.jpg  width = 250> 
@@ -103,3 +102,5 @@ A summary with smaller images is included in this file.
 <img src = Images/2020_02_Russell_Taylor_Plinys-Villa-Elevation-1.jpg  width = 250> 
 <img src = Images/2020_03_Russell_Taylor_Plinys-Villa-Section1.jpg  width = 250> 
 <img src = Images/2020_04_Russell_Taylor_Plinys-Villa-Sea_Elevation.jpg  width = 250> 
+
+</p>

@@ -1,8 +1,17 @@
-The images of different artists recreations of the Laurentine are stored in the Images folder.
+
+The list of existing recreations with details of their publication and a link when available are in a table in Artists-Recreations.pdf
+
+The images of different artists recreations of the Laurentine are stored in the Images folder. The files names contain the data and artists names.
 
 A summary with smaller images is included in this file.
 
+
+1615	Vincenzo Scamozzi
+
 <img src = Images/1615_Scamozzi_Villa_Laurentina.jpg  width = 250> 
+
+1699	Jean François Félibien des Avaux
+
 <img src = Images/1699_Felibien_des_Avaux_Laurentine.jpg  width = 250> 
 <img src = Images/1728_Robert_Castell.jpg  width = 250> 
 <img src = Images/1729_Hirt_Laurentine_and_Tuscan.png  width = 250> 

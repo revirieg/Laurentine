@@ -52,11 +52,11 @@ A summary with smaller images is included in this file.
 <img src = Images/1943_Albert-van_Buren.png  width = 250> 
 <img src = Images/1947_Clifford-Pember_Maqueta.jpg  width = 250> 
 <img src = Images/1947_Clifford-Pember_MaquetaB_N.jpg  width = 250> 
-<img src = Images/1981_01_Jean-Pierre Adam.jpg  width = 250> 
-<img src = Images/1981_01_Jean-Pierre Adam_2.jpg  width = 250> 
+<img src = Images/1981_01_Jean-Pierre_Adam.jpg  width = 250> 
+<img src = Images/1981_01_Jean-Pierre_Adam_2.jpg  width = 250> 
 <img src = Images/1981_02_Bigelman_laurentine-bigelman.jpg  width = 250> 
 <img src = Images/1981_03_Farina_laurentine-bigelman.jpg  width = 250> 
-<img src = Images/1981_04_Fraisse_et_Braun _laurentine.jpg  width = 250> 
+<img src = Images/1981_04_Fraisse_et_Braun_laurentine.jpg  width = 250> 
 <img src = Images/1981_05_Haut_laurentine.jpg  width = 250> 
 <img src = Images/1981_06_Ustarroz_e_Iñiguez_laurentine.jpg  width = 250> 
 <img src = Images/1981_07_Léon_Krier_laurentine.jpg  width = 250> 

@@ -2,4 +2,5 @@ The images of different artists recreations of the Laurentine are stored in the 
 
 A summary with smaller images is included in this file.
 
-<img src = Images1615_Scamozzi_Villa Laurentina.jpg  width = 200> 
+<img src = Images/1615_Scamozzi_Villa_Laurentina.jpg  width = 200> 
+

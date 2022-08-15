@@ -7,8 +7,11 @@ A summary with smaller images is included in this file.
 
 <p align=center>
 1615	Vincenzo Scamozzi\n
+</p> 
+<p align=center>
 <img src = Images/1615_Scamozzi_Villa_Laurentina.jpg  width = 250>
 </p> 
+
   
   1699	Jean François Félibien des Avaux
 

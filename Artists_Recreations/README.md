@@ -6,7 +6,7 @@ The images of different artists recreations of the Laurentine are stored in the 
 A summary with smaller images is included in this file.
 
 <p align=center>
-1615	Vincenzo Scamozzi
+1615	Vincenzo Scamozzi\n
 <img src = Images/1615_Scamozzi_Villa_Laurentina.jpg  width = 250>
 </p> 
   

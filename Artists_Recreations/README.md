@@ -37,7 +37,7 @@ A summary with smaller images is included in this file.
 <img src = Images/1852_02_Bouchet_Façades.jpg  width = 250> 
 <img src = Images/1852_02_Bouchet_Vue.jpg  width = 250> 
 <img src = Images/1852_04_Bouchet_Plan.jpg  width = 250> 
-<img src = Images/1855_Anonymous_Accademia_San_Luca_2290_From_Du_Prey.jpg'  width = 250> 
+<img src = Images/1855_Anonymous_Accademia_San_Luca_2290_From_Du_Prey.jpg  width = 250> 
 <img src = Images/1864_1_JGS._Columbia_Student.jpg  width = 250> 
 <img src = Images/1864_2_JGS._Columbia_Student.jpg  width = 250> 
 <img src = Images/1864_2_Loring_Columbia_Student.jpg  width = 250> 
@@ -48,7 +48,7 @@ A summary with smaller images is included in this file.
 <img src = Images/1895_2_Magoun_Laurentine_Key.jpg  width = 250> 
 <img src = Images/1895_Magoun_Laurentine.jpg  width = 250> 
 <img src = Images/1921_Tanzer_Laurentine.jpg  width = 250> 
-<img src = Images/1943_Albert-van-Buren_En_su_publicación_de_JRS_Página_2.jpg'  width = 250> 
+<img src = Images/1943_Albert-van-Buren_En_su_publicación_de_JRS_Página_2.jpg  width = 250> 
 <img src = Images/1943_Albert-van_Buren.png  width = 250> 
 <img src = Images/1947_Clifford-Pember_Maqueta.jpg  width = 250> 
 <img src = Images/1947_Clifford-Pember_MaquetaB_N.jpg  width = 250> 

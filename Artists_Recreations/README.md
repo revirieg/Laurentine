@@ -5,11 +5,12 @@ The images of different artists recreations of the Laurentine are stored in the 
 
 A summary with smaller images is included in this file.
 
-
+<p align=center>
 1615	Vincenzo Scamozzi
-
-<p align=center>  <img src = Images/1615_Scamozzi_Villa_Laurentina.jpg  width = 250>
-1699	Jean François Félibien des Avaux
+<img src = Images/1615_Scamozzi_Villa_Laurentina.jpg  width = 250>
+</p> 
+  
+  1699	Jean François Félibien des Avaux
 
 <img src = Images/1699_Felibien_des_Avaux_Laurentine.jpg  width = 250> 
 <img src = Images/1728_Robert_Castell.jpg  width = 250> 
@@ -103,4 +104,4 @@ A summary with smaller images is included in this file.
 <img src = Images/2020_03_Russell_Taylor_Plinys-Villa-Section1.jpg  width = 250> 
 <img src = Images/2020_04_Russell_Taylor_Plinys-Villa-Sea_Elevation.jpg  width = 250> 
 
-</p>
+

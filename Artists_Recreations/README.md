@@ -6,21 +6,49 @@ The images of different artists recreations of the Laurentine are stored in the 
 A summary with smaller images is included in this file.
 
 <p align=center>
-1615	Vincenzo Scamozzi\n
+1615	Vincenzo Scamozzi
 </p> 
 <p align=center>
 <img src = Images/1615_Scamozzi_Villa_Laurentina.jpg  width = 250>
 </p> 
 
-  
-  1699	Jean François Félibien des Avaux
-
+<p align=center>  
+1699	Jean François Félibien des Avaux
+</p> 
+<p align=center>  
 <img src = Images/1699_Felibien_des_Avaux_Laurentine.jpg  width = 250> 
+</p> 
+
+<p align=center>  
+1728	Robert Castell
+</p> 
+
+
+<p align=center>  
 <img src = Images/1728_Robert_Castell.jpg  width = 250> 
-<img src = Images/1729_Hirt_Laurentine_and_Tuscan.png  width = 250> 
+</p> 
+
+  
+  <img src = Images/1729_Hirt_Laurentine_and_Tuscan.png  width = 250> 
+
+
+<p align=center>  
+1699	Jean François Félibien des Avaux
+</p> 
+<p align=center>  
 <img src = Images/1760_Krubsacius_Friedrich_August,_Possible_design_of_the_country_house_of_the_younger_Pliny_called_Laurentian,_1760,_The_New_York_Botanical_Garden,_fair_use.jpg  width = 250> 
+</p> 
+
+<p align=center>  
+1770	Edward Stevens
+</p> 
+
+<p align=center>  
 <img src = Images/1770_1_Stevens_laurentine-stevens.jpg  width = 250> 
 <img src = Images/1770_2_Stevens_Pseudo_urban_Villa.png  width = 250> 
+</p> 
+
+
 <img src = Images/1775_William_Newton.jpeg   width = 250> 
 <img src = Images/1779_1_Potoki_The_Villa_Laurentina_of_Pliny_the_Younge.jpg  width = 250> 
 <img src = Images/1779_2_Potoki_The_Villa_Laurentina_of_Pliny_the_Younge.jpg   width = 250> 

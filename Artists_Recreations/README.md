@@ -37,7 +37,7 @@ A summary with smaller images is included in this file.
 <img src = Images/1852_02_Bouchet_Façades.jpg  width = 250> 
 <img src = Images/1852_02_Bouchet_Vue.jpg  width = 250> 
 <img src = Images/1852_04_Bouchet_Plan.jpg  width = 250> 
-<img src = Images/1855_Anonymous_Accademia_San Luca__2290_From_Du_Prey.jpg'  width = 250> 
+<img src = Images/1855_Anonymous_Accademia_San_Luca__2290_From_Du_Prey.jpg'  width = 250> 
 <img src = Images/1864_1_J.G.S._Columbia Student.jpg'  width = 250> 
 <img src = Images/1864_2_J.G.S._Columbia Student.jpg'  width = 250> 
 <img src = Images/1864_2_Loring_Columbia Student.jpg'  width = 250> 
@@ -88,9 +88,9 @@ A summary with smaller images is included in this file.
 <img src = Images/1983_13_Marosi_1.jpg  width = 250> 
 <img src = Images/1984_Ricottii_1.jpg  width = 250> 
 <img src = Images/2008_01_Pisaniello_Plinys-Villa-Plan-1.jpg  width = 250> 
-<img src = Images/2014_Hardy_3D restitution.jpg  width = 250> 
+<img src = Images/2014_Hardy_3D_restitution.jpg  width = 250> 
 <img src = Images/2017_plattegrond-villa-engels.jpg  width = 250> 
-<img src = Images/2020_01_Russell Taylor_Plinys-Villa-Plan-1.jpg  width = 250> 
-<img src = Images/2020_02_Russell Taylor_Plinys-Villa-Elevation-1.jpg  width = 250> 
-<img src = Images/2020_03_Russell Taylor_Plinys-Villa-Section1.jpg  width = 250> 
-<img src = Images/2020_04_Russell Taylor_Plinys-Villa-Sea Elevation.jpg  width = 250> 
+<img src = Images/2020_01_Russell_Taylor_Plinys-Villa-Plan-1.jpg  width = 250> 
+<img src = Images/2020_02_Russell_Taylor_Plinys-Villa-Elevation-1.jpg  width = 250> 
+<img src = Images/2020_03_Russell_Taylor_Plinys-Villa-Section1.jpg  width = 250> 
+<img src = Images/2020_04_Russell_Taylor_Plinys-Villa-Sea Elevation.jpg  width = 250> 

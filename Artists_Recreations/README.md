@@ -100,7 +100,7 @@ A summary with smaller images is included in this file.
 </p> 
 <p align=center>  
 <img src = Images/1827_Hirt1827atlas_0031.jpg  width = 250> 
-<img src = Images/1827_Hirt_Laurentine  width = 250> 
+<img src = Images/1827_Hirt_Laurentine.jpg  width = 250> 
 </p> 
 
 <p align=center>
@@ -360,7 +360,7 @@ ca. 1864	J.W. Loring
 2017	Palombara
 </p> 
 <p align=center>    
-<img src = Images/2017_Civitelli_Palombara_Laurentine  width = 250> 
+<img src = Images/2017_Civitelli_Palombara_Laurentine.jpg  width = 250> 
 </p> 
 
 

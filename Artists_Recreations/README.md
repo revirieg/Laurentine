@@ -357,7 +357,7 @@ ca. 1864	J.W. Loring
 </p> 
   
 <p align=center>
-2017	Palombara
+2017	E. Civitelli
 </p> 
 <p align=center>    
 <img src = Images/2017_Civitelli_Palombara_Laurentine.jpg  width = 250> 

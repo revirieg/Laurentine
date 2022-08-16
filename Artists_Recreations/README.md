@@ -99,7 +99,6 @@ A summary with smaller images is included in this file.
 1827	Aloys Ludwig Hirt  
 </p> 
 <p align=center>  
-<img src = Images/1827_Hirt1827atlas_0031.jpg  width = 250> 
 <img src = Images/1827_Hirt_Laurentine.jpg  width = 250> 
 </p> 
 

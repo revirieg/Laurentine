@@ -26,9 +26,7 @@ A summary with smaller images is included in this file.
 <img src = Images/1728_Robert_Castell.jpg  width = 250> 
 </p> 
 
-  
- <img src = Images/1729_Hirt_Laurentine_and_Tuscan.png  width = 250> 
-
+ 
 
 <p align=center>  
 1699	Jean François Félibien des Avaux
@@ -102,6 +100,7 @@ A summary with smaller images is included in this file.
 </p> 
 <p align=center>  
 <img src = Images/1827_Hirt1827atlas_0031.jpg  width = 250> 
+<img src = Images/1827_Hirt_Laurentine  width = 250> 
 </p> 
 
 <p align=center>
@@ -357,7 +356,13 @@ ca. 1864	J.W. Loring
 <img src = Images/2014_Hardy_3D_restitution.jpg  width = 250> 
 </p> 
   
-<img src = Images/2017_plattegrond-villa-engels.jpg  width = 250> 
+<p align=center>
+2017	Palombara
+</p> 
+<p align=center>    
+<img src = Images/2017_Civitelli_Palombara_Laurentine  width = 250> 
+</p> 
+
 
 <p align=center>
 2020	Russell Taylor Architects  
